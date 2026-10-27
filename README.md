@@ -106,24 +106,57 @@ Two tables are used:
 
 ## Screenshots
 
-Add images from `docs/screenshots/` here:
-docs/screenshots/Dashboard%201.png
-docs/screenshots/Dashboard%202.png
-docs/screenshots/flask_dashboard1%20part1.png
-docs/screenshots/flask_dashboard1%20part2.png
-docs/screenshots/flask_dashboard2.png
-docs/screenshots/flask_home.png
-docs/screenshots/flask_story.png
-docs/screenshots/Story.png
-```markdown
+## Screenshots
+
+
+
+![Tableau Dashboard 1](docs/screenshots/Dashboard%201.png)
+
+
+
+
+![Tableau Dashboard 2](docs/screenshots/Dashboard%202.png)
+
+
+
+
+![Tableau Story](docs/screenshots/Story.png)
+
+
+
+
+![Flask Home](docs/screenshots/flask_home.png)
+
+
+
+
+![Flask Dashboard 1 Part 1](docs/screenshots/flask_dashboard1%20part1.png)
+
+
+
+
+![Flask Dashboard 1 Part 2](docs/screenshots/flask_dashboard1%20part2.png)
+
+
+
+
+![Flask Dashboard 2](docs/screenshots/flask_dashboard2.png)
+
+
+
+
+![Flask Story](docs/screenshots/flask_story.png)
+
+
+
+## Performance Testing
 
 | Metric | Result |
 |--------|--------|
 | Amount of data loaded | [rows / extract size] |
-| Data filters used | [list] |
+| Data filters used | Season, Year |
 | Calculated fields | [count] |
-| Visualisations | 7 sheets, 2 dashboards, 1 story |
-
+| Visualisations | 5 sheets, 2 dashboards, 1 story |
 ## Documentation
 
 Full step-by-step documentation: [`docs/Project_Documentation.pdf`](docs/Project_Documentation.pdf)
