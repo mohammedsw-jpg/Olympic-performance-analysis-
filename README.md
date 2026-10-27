@@ -106,10 +106,6 @@ Two tables are used:
 
 ## Screenshots
 
-## Screenshots
-
-
-
 ![Tableau Dashboard 1](docs/screenshots/Dashboard%201.png)
 
 
