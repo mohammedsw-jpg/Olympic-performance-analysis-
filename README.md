@@ -1,4 +1,4 @@
-# Olympic-performance-analysis-
+
 # Olympic Performance Analysis (1992–2026)
 
 An interactive analytics project that explores what drives Olympic success. Data is analysed and visualised in **Tableau**, then embedded in a **Flask** web app so the dashboards and story can be viewed on a single website.
