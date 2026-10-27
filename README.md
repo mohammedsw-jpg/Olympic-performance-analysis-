@@ -4,14 +4,9 @@
 An interactive analytics project that explores what drives Olympic success. Data is analysed and visualised in **Tableau**, then embedded in a **Flask** web app so the dashboards and story can be viewed on a single website.
 
 **Live Tableau Public:** https://public.tableau.com/app/profile/mohammed.sukhawala/viz/OlympicPerformanceAnalysis_17931144556200/Story1?publish=yes
-https://public.tableau.com/app/profile/mohammed.sukhawala/viz/OlympicPerformanceAnalysis_17931144556200/Dashboard1?publish=yes
-https://public.tableau.com/app/profile/mohammed.sukhawala/viz/OlympicPerformanceAnalysis_17931144556200/Dashboard2?publish=yes
-https://public.tableau.com/app/profile/mohammed.sukhawala/viz/OlympicPerformanceAnalysis_17931144556200/MedalsbyCountry?publish=yes
-https://public.tableau.com/app/profile/mohammed.sukhawala/viz/OlympicPerformanceAnalysis_17931144556200/MedalsTrend?publish=yes
-https://public.tableau.com/app/profile/mohammed.sukhawala/viz/OlympicPerformanceAnalysis_17931144556200/InvestmentvsMedals?publish=yes
-https://public.tableau.com/app/profile/mohammed.sukhawala/viz/OlympicPerformanceAnalysis_17931144556200/MedalsbyRegion?publish=yes
-https://public.tableau.com/app/profile/mohammed.sukhawala/viz/OlympicPerformanceAnalysis_17931144556200/AvgMedalsbySportCategory?publish=yes
+
 **Demo video:** [ADD LINK HERE]
+
 **Author:** Mohammed Sukhawala
 
 ---
