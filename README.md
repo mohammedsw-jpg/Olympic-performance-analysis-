@@ -5,7 +5,7 @@ An interactive analytics project that explores what drives Olympic success. Data
 
 **Live Tableau Public:** https://public.tableau.com/app/profile/mohammed.sukhawala/viz/OlympicPerformanceAnalysis_17931144556200/Story1?publish=yes
 
-**Demo video:** [ADD LINK HERE]
+**Demo video:** https://drive.google.com/file/d/1n_J7-JglOdbfD-x7Ypi7ZoyLUGP7d76_/view?usp=sharing
 
 **Author:** Mohammed Sukhawala
 
