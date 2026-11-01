@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Olympic Performance Analysis</title>
+  <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; background: #f5f7fa; }
+    nav { background: #0b3d91; padding: 14px 24px; }
+    nav a { color: white; margin-right: 20px; text-decoration: none; font-weight: bold; }
+    main { padding: 24px; max-width: 1300px; margin: auto; }
+    h1 { color: #0b3d91; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="/">Home</a>
+    <a href="/dashboard1">Dashboard 1</a>
+    <a href="/dashboard2">Dashboard 2</a>
+    <a href="/story">Story</a>
+  </nav>
+  <main>{% block content %}{% endblock %}</main>
+</body>
+</html>
